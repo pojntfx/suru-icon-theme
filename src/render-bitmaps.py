@@ -2,11 +2,11 @@
 #
 # Legal Stuff:
 #
-# This file is part of the Suru Icon Theme and is free software; you can redistribute it and/or modify it under
+# This file is part of the Suru-Adwaita-Ubuntu Icon Theme and is free software; you can redistribute it and/or modify it under
 # the terms of the GNU Lesser General Public License as published by the Free Software
 # Foundation; version 3.
 #
-# This file is part of the Suru Icon Theme and is distributed in the hope that it will be useful, but WITHOUT
+# This file is part of the Suru-Adwaita-Ubuntu Icon Theme and is distributed in the hope that it will be useful, but WITHOUT
 # ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
 # FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more
 # details.
@@ -25,7 +25,7 @@ import argparse
 
 INKSCAPE = '/usr/bin/inkscape'
 OPTIPNG = '/usr/bin/optipng'
-MAINDIR = '../Suru'
+MAINDIR = '../Suru-Adwaita-Ubuntu'
 # SRC = 'fullcolor'
 SOURCES = ('fullcolor/apps', 'fullcolor/categories', 'fullcolor/devices', 'fullcolor/mimetypes', 'fullcolor/places')
 
