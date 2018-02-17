@@ -1,6 +1,6 @@
 ## Icon Sources
 
-- Do not edit icon assets directly (i.e. those in the "Suru" folder)! 
+- Do not edit icon assets directly (i.e. those in the "Suru-Adwaita-Ubuntu" folder)! 
 - To modify an icon, edit source SVG files found in this directory (or create a new one using the [Template](Template.svg)) and render them with the appropriate script.
 - To edit the icons you will need `inkscape` installed and to use the render scripts you'll need both `python` (to render PNG assets) and `ruby` (to render SVG assets) installed.
 
@@ -29,10 +29,10 @@ For simplified development, has various scripts to extract or render icons from 
 
 ## Resources
 
-**[Suru.gpl](./Suru.gpl)**
-- The Inkscape colour palette for the Suru icons. You can copy it to `.config/inkscape/palettes` and restart Inkscape to able to choose it from the palette menu.
+**[Suru-Adwaita-Ubuntu.gpl](./Suru-Adwaita-Ubuntu.gpl)**
+- The Inkscape colour palette for the Suru-Adwaita-Ubuntu icons. You can copy it to `.config/inkscape/palettes` and restart Inkscape to able to choose it from the palette menu.
 
 **[Template.svg](./Template.svg)**
- - a blank template file for the fullcolor Suru icons
+ - a blank template file for the fullcolor Suru-Adwaita-Ubuntu icons
  - the template has as _Baseplate_ layer which will contain the necessary metadata for rendering an icon
  - You **must** change the `context` and `icon-name` labels on the _Baseplate_ for an icon to render properly (also hide the layer)

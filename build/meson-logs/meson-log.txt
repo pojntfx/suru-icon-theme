@@ -1,0 +1,13 @@
+Build started at 2018-02-17T11:45:18.930457
+Python binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.42.1
+Source dir: /home/pojntfx/suru-icon-theme
+Build dir: /home/pojntfx/suru-icon-theme/build
+Build type: native build
+Project name: suru-icon-theme-Adwaita-Ubuntu
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Program meson/post_install.py found: YES (/usr/bin/env python3 /home/pojntfx/suru-icon-theme/meson/post_install.py)
+Build targets in project: 0
